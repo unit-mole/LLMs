@@ -1,0 +1,26 @@
+2024-08-07 01:18:31,261 - User: Tell me a joke.
+2024-08-07 01:18:31,262 - Bot: 
+
+Why did the tomato turn red?
+
+Because it saw the salad dressing!
+2024-08-07 01:23:43,818 - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-08-07 01:23:45,127 - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-08-07 01:23:45,287 - User: Tell me a joke.
+2024-08-07 01:23:45,287 - Bot: 
+
+Why couldn't the bicycle stand up by itself?
+
+Because it was two-tired.
+2024-08-07 01:23:55,042 - User: Tell me a joke.
+2024-08-07 01:23:55,042 - Bot: 
+
+Why couldn't the bicycle stand up by itself?
+
+Because it was two-tired.
+2024-08-07 15:16:34,156 - User: Tell me a joke.
+2024-08-07 15:16:34,158 - Bot: 
+
+Why couldn't the bicycle stand up by itself?
+
+Because it was two-tired.
